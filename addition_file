@@ -1,0 +1,7 @@
+#include<conio.h>
+main()
+{
+int a,b;
+add = a+b;
+printf(%d,"add");
+}
